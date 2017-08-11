@@ -1,0 +1,10 @@
+header {
+	font-family: Helvetica, Arial, sans-serif; 
+	border-bottom: 5px solid black; 
+	align-self: center;
+}
+p{
+	align-self: center; 
+	font-family: Arial, sans-serif; 
+	color : #BFBBBE;
+}
