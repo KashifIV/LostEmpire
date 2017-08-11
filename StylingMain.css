@@ -1,10 +1,14 @@
-header {
+h1 {
 	font-family: Helvetica, Arial, sans-serif; 
 	border-bottom: 5px solid black; 
-	align-self: center;
+	text-align: : center;
 }
-p{
-	align-self: center; 
+.slogan{
+	text-align: : center; 
 	font-family: Arial, sans-serif; 
 	color : #BFBBBE;
+}
+p{
+	text-align: : center; 
+	font-family: Arial, sans-serif; 
 }
