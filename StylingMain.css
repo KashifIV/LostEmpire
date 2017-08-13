@@ -7,30 +7,40 @@ body{
   margin: auto;
   /* Set padding to be 0 pixels top & bottom, and 20 pixels left & right */
   padding: 0px, 20px;
-  background-color: #FFFAFD; 
-}
+  background-color: #7F7D7F; 
 
+}
+header {
+	max-width: all;  
+	background-color: #FF2B63
+
+}
 footer {
 	background-color: purple; 
 }
 main {
-  /* Set maximum width to be 800 pixels */
-  max-width: 800px;
-  /* Set margin to be automatically calculated on all sides */
-  margin: auto;
-  /* Set padding to be 0 pixels top & bottom, and 20 pixels left & right */
-  padding: 0px, 20px;
 }
-
+img {
+	align-self: center; 
+	height: 80%; 
+	width: 80%; 
+}
 h1 {
 	font-family: Helvetica, Arial, sans-serif; 
-	border-bottom: 5px solid black; 
+	border-bottom: 5px solid white; 
 }
 h2{
+	color: white;
+	text-align: left; 
+	font-family: Helvetica, Arial, sans-serif; 
+}
+h3{
+	color: white;
 	text-align: left; 
 	font-family: Helvetica, Arial, sans-serif; 
 }
 p{ 
+	color: white;
 	text-align: left; 
 	font-family: Arial, sans-serif; 
 }
